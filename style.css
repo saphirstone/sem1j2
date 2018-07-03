@@ -5,7 +5,7 @@
  	padding: 0px;
  }
 
-/*menu*/
+ /*menu*/
  .header{
  	width: 28%;
  	float: right;
@@ -13,20 +13,20 @@
  .header ul{
  	list-style-type: none;
  }
-.header ul li{
-	float: left;
-}
-.header ul li a{
-	display: block;
-	width: 70px;
-	line-height: 30px;
-	text-align: center;
-	text-decoration: none;
-	color: black;
-}
-.header ul li a:hover{
-	text-decoration: underline;
-}
+ .header ul li{
+ 	float: left;
+ }
+ .header ul li a{
+ 	display: block;
+ 	width: 70px;
+ 	line-height: 30px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: black;
+ }
+ .header ul li a:hover{
+ 	text-decoration: underline;
+ }
 
 
 
@@ -36,13 +36,13 @@
  	padding-left: 20%;
  }
 
-/*champ de texte*/
+ /*champ de texte*/
  .recherche{
  	text-align: center;
  	padding-bottom: 50px;
  }
 
-/*bouton de recherche*/
+ /*bouton de recherche*/
  .bouton-princ{
  	height: 40px;
  	margin: auto;
@@ -51,46 +51,46 @@
  	justify-content: center;
  }
 
-.re{
-	background-color: #F7F7F0;
-	width: 150px;
-	margin-right: 10px;
+ .re{
+ 	background-color: #F7F7F0;
+ 	width: 150px;
+ 	margin-right: 10px;
  	border-radius: 3px;
-}
-.re:hover{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #927D6A;
+ }
+ .re:hover{
+ 	border-style: solid;
+ 	border-width: 1px;
+ 	border-color: #927D6A;
  	font-weight: bold;
  	color: black;
-}
+ }
  .re a{
-	line-height: 40px;
-	text-align: center;
-	text-decoration: none;
-	color: #524633;
-	}
+ 	line-height: 40px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: #524633;
+ }
 
 
-.chance{
-	background-color: #F7F7F0;
-	width: 150px;
+ .chance{
+ 	background-color: #F7F7F0;
+ 	width: 150px;
  	border-radius: 3px;
-}
+ }
 
-.chance:hover{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #927D6A;
+ .chance:hover{
+ 	border-style: solid;
+ 	border-width: 1px;
+ 	border-color: #927D6A;
  	font-weight: bold;
  	color: black;
-}
-.chance a{
-	line-height: 40px;
-	text-align: center;
-	text-decoration: none;
-	color: #524633;
-	}
+ }
+ .chance a{
+ 	line-height: 40px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: #524633;
+ }
 
 
 
@@ -99,12 +99,12 @@
  	text-align: center;
  }
  .langue a{
-	text-align: center;
-	text-decoration: none;
-	color: #234CA5;
-	}
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: #234CA5;
+ }
 
-/*footer*/
+ /*footer*/
  .footer{
  	margin-top: 150px;
  	background-color: #F7F7F0;
@@ -125,8 +125,8 @@
  
 
 
-/*les lien footer*/
-.part2{
+ /*les lien footer*/
+ .part2{
  	background-color: none;
  	color: #434543;
  	border-left-style: solid;
@@ -137,34 +137,34 @@
  	border-color: #CCC6AD;
  }
 
-/*lien g*/
-.lien1{
+ /*lien g*/
+ .lien1{
  	float: left;
  	padding-bottom: 10px;
  }
 
-.lien1 ul{
+ .lien1 ul{
  	list-style-type: none;
  	margin: 15px; 
  	padding: 0px;
  }
-.lien1 ul li{
-	float: left;
-	margin-right: 30px;
-}
-.lien1 ul li a{
-	display: block;
-	text-align: center;
-	text-decoration: none;
-	color: #434543;
-}
+ .lien1 ul li{
+ 	float: left;
+ 	margin-right: 30px;
+ }
+ .lien1 ul li a{
+ 	display: block;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: #434543;
+ }
 
-.lien1 ul li a:hover{
-	text-decoration: underline;
-}
+ .lien1 ul li a:hover{
+ 	text-decoration: underline;
+ }
 
 
-/*lien d*/
+ /*lien d*/
  .lien2{
  	float: right;
  	margin-left: 800px;
@@ -178,17 +178,17 @@
  	margin: 15px; 
  	padding: 0px;
  }
-.lien2 ul li{
-	float: left;
-	margin-right: 30px; 
-}
-.lien2 ul li a{
-	display: block;
-	text-align: center;
-	text-decoration: none;
-	color: #434543;
-}
+ .lien2 ul li{
+ 	float: left;
+ 	margin-right: 30px; 
+ }
+ .lien2 ul li a{
+ 	display: block;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	color: #434543;
+ }
 
-.lien2 ul li a:hover{
-	text-decoration: underline;
-}
+ .lien2 ul li a:hover{
+ 	text-decoration: underline;
+ }
